@@ -1,0 +1,81 @@
+Menu,Makanan Berat,Dessert,Energi,Protein,Lemak,Karbohidrat,Serat
+Menu 1,Nasi + Ayam + Kubis,Apel,450,20,10,65,5
+Menu 2,Nasi + Telur + Tahu,Melon,480,19,11,68,4
+Menu 3,Nasi + Tempe + Sawi,Mangga,420,16,8,70,5
+Menu 4,Nasi + Ikan + Wortel,Semangka,460,21,10,63,4
+Menu 5,Nasi + Ayam + Kol,Pisang,500,23,13,62,5
+Menu 6,Nasi + Telur + Tauge,Anggur,470,18,10,66,4
+Menu 7,Nasi + Tempe + Pakcoy,Strawberry,410,15,8,68,5
+Menu 8,Nasi + Tahu + Labu,Alpukat,520,14,15,60,6
+Menu 9,Nasi + Ayam + Baby Corn,Buah Naga,490,22,12,64,5
+Menu 10,Nasi + Ikan + Kubis,Apel,455,21,9,63,5
+Menu 11,Nasi + Telur + Wortel,Melon,470,18,10,65,4
+Menu 12,Nasi + Tempe + Kol,Mangga,420,16,8,67,5
+Menu 13,Nasi + Ayam + Sawi,Pisang,500,22,12,62,4
+Menu 14,Nasi + Ikan + Tauge,Anggur,460,21,10,63,4
+Menu 15,Nasi + Tahu + Pakcoy,Strawberry,405,14,7,69,5
+Menu 16,Nasi + Tempe + Wortel,Alpukat,510,16,14,61,6
+Menu 17,Nasi + Ayam + Kol,Buah Naga,480,22,11,64,5
+Menu 18,Nasi + Telur + Sawi,Apel,470,18,10,65,4
+Menu 19,Nasi + Ikan + Labu,Melon,450,20,9,64,4
+Menu 20,Nasi + Tahu + Kubis,Mangga,400,14,7,70,5
+Menu 21,Nasi + Ayam + Kubis,Apel,450,20,10,65,5
+Menu 22,Nasi + Telur + Tahu,Melon,480,19,11,68,4
+Menu 23,Nasi + Tempe + Sawi,Mangga,420,16,8,70,5
+Menu 24,Nasi + Ikan + Wortel,Semangka,460,21,10,63,4
+Menu 25,Nasi + Ayam + Kol,Pisang,500,23,13,62,5
+Menu 26,Nasi + Telur + Tauge,Anggur,470,18,10,66,4
+Menu 27,Nasi + Tempe + Pakcoy,Strawberry,410,15,8,68,5
+Menu 28,Nasi + Tahu + Labu,Alpukat,520,14,15,60,6
+Menu 29,Nasi + Ayam + Baby Corn,Buah Naga,490,22,12,64,5
+Menu 30,Nasi + Ikan + Kubis,Apel,455,21,9,63,5
+Menu 31,Nasi + Telur + Wortel,Melon,470,18,10,65,4
+Menu 32,Nasi + Tempe + Kol,Mangga,420,16,8,67,5
+Menu 33,Nasi + Ayam + Sawi,Pisang,500,22,12,62,4
+Menu 34,Nasi + Ikan + Tauge,Anggur,460,21,10,63,4
+Menu 35,Nasi + Tahu + Pakcoy,Strawberry,405,14,7,69,5
+Menu 36,Nasi + Tempe + Wortel,Alpukat,510,16,14,61,6
+Menu 37,Nasi + Ayam + Kol,Buah Naga,480,22,11,64,5
+Menu 38,Nasi + Telur + Sawi,Apel,470,18,10,65,4
+Menu 39,Nasi + Ikan + Labu,Melon,450,20,9,64,4
+Menu 40,Nasi + Tahu + Kubis,Mangga,400,14,7,70,5
+Menu 41,Nasi + Ayam + Kubis,Apel,450,20,10,65,5
+Menu 42,Nasi + Telur + Tahu,Melon,480,19,11,68,4
+Menu 43,Nasi + Tempe + Sawi,Mangga,420,16,8,70,5
+Menu 44,Nasi + Ikan + Wortel,Semangka,460,21,10,63,4
+Menu 45,Nasi + Ayam + Kol,Pisang,500,23,13,62,5
+Menu 46,Nasi + Telur + Tauge,Anggur,470,18,10,66,4
+Menu 47,Nasi + Tempe + Pakcoy,Strawberry,410,15,8,68,5
+Menu 48,Nasi + Tahu + Labu,Alpukat,520,14,15,60,6
+Menu 49,Nasi + Ayam + Baby Corn,Buah Naga,490,22,12,64,5
+Menu 50,Nasi + Ikan + Kubis,Apel,455,21,9,63,5
+Menu 51,Nasi + Telur + Wortel,Melon,470,18,10,65,4
+Menu 52,Nasi + Tempe + Kol,Mangga,420,16,8,67,5
+Menu 53,Nasi + Ayam + Sawi,Pisang,500,22,12,62,4
+Menu 54,Nasi + Ikan + Tauge,Anggur,460,21,10,63,4
+Menu 55,Nasi + Tahu + Pakcoy,Strawberry,405,14,7,69,5
+Menu 56,Nasi + Tempe + Wortel,Alpukat,510,16,14,61,6
+Menu 57,Nasi + Ayam + Kol,Buah Naga,480,22,11,64,5
+Menu 58,Nasi + Telur + Sawi,Apel,470,18,10,65,4
+Menu 59,Nasi + Ikan + Labu,Melon,450,20,9,64,4
+Menu 60,Nasi + Tahu + Kubis,Mangga,400,14,7,70,5
+Menu 61,Nasi + Ayam + Kubis,Apel,450,20,10,65,5
+Menu 62,Nasi + Telur + Tahu,Melon,480,19,11,68,4
+Menu 63,Nasi + Tempe + Sawi,Mangga,420,16,8,70,5
+Menu 64,Nasi + Ikan + Wortel,Semangka,460,21,10,63,4
+Menu 65,Nasi + Ayam + Kol,Pisang,500,23,13,62,5
+Menu 66,Nasi + Telur + Tauge,Anggur,470,18,10,66,4
+Menu 67,Nasi + Tempe + Pakcoy,Strawberry,410,15,8,68,5
+Menu 68,Nasi + Tahu + Labu,Alpukat,520,14,15,60,6
+Menu 69,Nasi + Ayam + Baby Corn,Buah Naga,490,22,12,64,5
+Menu 70,Nasi + Ikan + Kubis,Apel,455,21,9,63,5
+Menu 71,Nasi + Telur + Wortel,Melon,470,18,10,65,4
+Menu 72,Nasi + Tempe + Kol,Mangga,420,16,8,67,5
+Menu 73,Nasi + Ayam + Sawi,Pisang,500,22,12,62,4
+Menu 74,Nasi + Ikan + Tauge,Anggur,460,21,10,63,4
+Menu 75,Nasi + Tahu + Pakcoy,Strawberry,405,14,7,69,5
+Menu 76,Nasi + Tempe + Wortel,Alpukat,510,16,14,61,6
+Menu 77,Nasi + Ayam + Kol,Buah Naga,480,22,11,64,5
+Menu 78,Nasi + Telur + Sawi,Apel,470,18,10,65,4
+Menu 79,Nasi + Ikan + Labu,Melon,450,20,9,64,4
+Menu 80,Nasi + Tahu + Kubis,Mangga,400,14,7,70,5

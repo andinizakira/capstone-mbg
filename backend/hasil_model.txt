@@ -1,0 +1,70 @@
+Total data menu: 80 baris
+Kolom: ['menu', 'makanan berat', 'dessert', 'energi', 'protein', 'lemak', 'karbohidrat', 'serat']
+======================================================================
+
+Umur   JK   Energi Target   Distribusi Label               Train Acc    CV Acc (5-fold)     
+------------------------------------------------------------------------------------------
+7      L    1650            {'Layak': np.int64(80)}        1.0000       1.0000 ± 0.0000
+7      P    1550            {'Layak': np.int64(80)}        1.0000       1.0000 ± 0.0000
+8      L    1650            {'Layak': np.int64(80)}        1.0000       1.0000 ± 0.0000
+8      P    1550            {'Layak': np.int64(80)}        1.0000       1.0000 ± 0.0000
+9      L    1800            {'Layak': np.int64(80)}        1.0000       1.0000 ± 0.0000
+9      P    1750            {'Layak': np.int64(80)}        1.0000       1.0000 ± 0.0000
+10     L    2000            {'Layak': np.int64(80)}        1.0000       1.0000 ± 0.0000
+10     P    1900            {'Layak': np.int64(80)}        1.0000       1.0000 ± 0.0000
+11     L    2000            {'Layak': np.int64(80)}        1.0000       1.0000 ± 0.0000
+11     P    1900            {'Layak': np.int64(80)}        1.0000       1.0000 ± 0.0000
+12     L    2100            {'Layak': np.int64(68), 'Tidak': np.int64(12)} 0.9500       0.9500 ± 0.0250
+12     P    2000            {'Layak': np.int64(80)}        1.0000       1.0000 ± 0.0000
+13     L    2400            {'Layak': np.int64(28), 'Tidak': np.int64(52)} 0.9500       0.9500 ± 0.0250
+13     P    2050            {'Layak': np.int64(72), 'Tidak': np.int64(8)} 1.0000       1.0000 ± 0.0000
+14     L    2400            {'Layak': np.int64(28), 'Tidak': np.int64(52)} 0.9500       0.9500 ± 0.0250
+14     P    2050            {'Layak': np.int64(72), 'Tidak': np.int64(8)} 1.0000       1.0000 ± 0.0000
+15     L    2475            {'Layak': np.int64(16), 'Tidak': np.int64(64)} 1.0000       1.0000 ± 0.0000
+15     P    2050            {'Layak': np.int64(72), 'Tidak': np.int64(8)} 1.0000       1.0000 ± 0.0000
+16     L    2475            {'Layak': np.int64(16), 'Tidak': np.int64(64)} 1.0000       1.0000 ± 0.0000
+16     P    2100            {'Layak': np.int64(68), 'Tidak': np.int64(12)} 0.9500       0.9500 ± 0.0250
+17     L    2475            {'Layak': np.int64(16), 'Tidak': np.int64(64)} 1.0000       1.0000 ± 0.0000
+17     P    2100            {'Layak': np.int64(68), 'Tidak': np.int64(12)} 0.9500       0.9500 ± 0.0250
+18     L    2475            {'Layak': np.int64(16), 'Tidak': np.int64(64)} 1.0000       1.0000 ± 0.0000
+18     P    2100            {'Layak': np.int64(68), 'Tidak': np.int64(12)} 0.9500       0.9500 ± 0.0250
+------------------------------------------------------------------------------------------
+RATA-RATA                                               0.9875       0.9875
+
+======================================================================
+DETAIL EVALUASI — Contoh: Umur=13, JK=L (Energi Target=2400)
+======================================================================
+
+Distribusi label: {'Layak': np.int64(28), 'Tidak': np.int64(52)}
+
+Training Accuracy: 0.9500
+
+Confusion Matrix:
+[[24  4]
+ [ 0 52]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+       Layak       1.00      0.86      0.92        28
+       Tidak       0.93      1.00      0.96        52
+
+    accuracy                           0.95        80
+   macro avg       0.96      0.93      0.94        80
+weighted avg       0.95      0.95      0.95        80
+
+Cross-Validation Accuracy (5-fold): 0.9500 ± 0.0250
+Per-fold scores: [0.9375 0.9375 0.9375 0.9375 1.    ]
+
+--- Train/Test Split 80/20 ---
+Test Accuracy (80/20 split): 0.8750
+Test Classification Report:
+              precision    recall  f1-score   support
+
+       Layak       1.00      0.67      0.80         6
+       Tidak       0.83      1.00      0.91        10
+
+    accuracy                           0.88        16
+   macro avg       0.92      0.83      0.85        16
+weighted avg       0.90      0.88      0.87        16
+
